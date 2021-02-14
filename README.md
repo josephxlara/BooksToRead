@@ -1,0 +1,1 @@
+Books To Read is a simple react application which functions like a TODOs list. The user can add a book title and author to a list which is stored in local storage and can even delete said book title and author.
